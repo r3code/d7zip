@@ -134,7 +134,7 @@ end;
 #### Writing archive
 
 ```pascal
- procedure TMainForm.ExtractAllClick(Sender: TObject);
+ procedure TMainForm.PackFilesClick(Sender: TObject);
  var
    Arch: I7zOutArchive;
  begin
